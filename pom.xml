@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <vertex.version>3.9.1</vertex.version>
+        <vertex.version>3.9.4</vertex.version>
     </properties>
 
     <dependencies>
